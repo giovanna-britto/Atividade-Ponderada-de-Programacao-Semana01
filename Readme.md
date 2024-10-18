@@ -138,7 +138,10 @@ Após seguir todas as etapas descritas acima é possível visualizar o LED inter
 
 <video width="320" height="240" controls>
   <source src="assets/blinkfuncionando.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
 </video>
+
+Para visualizar o vídeo, acesse o seguinte [link](assets/blinkfuncionando.mp4)
 
 ---
 #### Desenvolvimento da Parte 2
@@ -183,8 +186,12 @@ O Vídeo a seguir evidencia o funcionamento do circuito e o código desenvolvido
 <div align="center">
 <video width="320" height="240" controls>
   <source src="assets/videoSimulacao.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
 </video>
 </div>
+
+Para visualizar o vídeo, acesse o seguinte [link](assets/videoSimulacao.mp4)
+
 
 
 O uso do resistor nesse circuito garante que a corrente seja limitada, protegendo o LED de danos por excesso de corrente.
@@ -313,8 +320,12 @@ Após a execução de todas essas etapas, foi possível obter o seguinte resulta
 <div align="center">
 <video width="320" height="240" controls>
   <source src="assets/ledFuncionando.mp4" type="video/mp4">
+  Seu navegador não suporta o elemento de vídeo.
 </video>
 </div>
+
+Para visualizar o vídeo, acesse o seguinte [link](assets/ledFuncionando.mp4)
+
 
 ### Conclusão
 
