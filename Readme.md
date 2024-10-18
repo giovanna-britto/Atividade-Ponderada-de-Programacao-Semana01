@@ -326,3 +326,8 @@ Por fim, a implementação do circuito físico replicando a simulação realizad
 
 Por fim, essa atividade proporcionou muito aprendizado, desde a simulação até a montagem prática, reforçando a importância de cada etapa no desenvolvimento de soluções baseadas em Arduino. Como resultado, foi possível não apenas executar a tarefa solicitada, mas também consolidar conhecimentos que serão importante para a execução do projeto.
 
+### Materiais Extras
+
+Para acessar os códigos desenvolvidos basta seguir os seguintes links:
+- [Código do LED Interno](codigos/codigoBlink.ino)
+- [Código do LED Externo](codigos/codigoLed.ino)
